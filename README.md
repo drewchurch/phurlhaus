@@ -1,0 +1,2 @@
+# Phantom App for URLhaus
+This [Phantom](https://www.splunk.com/en_us/software/splunk-security-orchestration-and-automation.html) app is written to interface with the abuse.ch [URLhaus database](https://urlhaus.abuse.ch/)
