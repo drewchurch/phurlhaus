@@ -1,0 +1,13 @@
+__init__.pyc
+.DS_Store
+debug_log.log
+exclude_files.txt
+state_file
+urlhaus_connector.pyc
+urlhaus_consts.pyc
+urlhaus_testme.py
+urlhaus_testme.pyc
+__pycache__/__init__.cpython-38.pyc
+__pycache__/urlhaus_connector.cpython-38.pyc
+__pycache__/urlhaus_consts.cpython-38.pyc
+__pycache__/urlhaus_testme.cpython-38.pyc
